@@ -4088,6 +4088,15 @@ readers do not read off random characters that represent icons */
 .fa-battery-3 {
   --fa: "\f242"; }
 
+.fa-earth-americas {
+  --fa: "\f57d"; }
+
+.fa-code-fork {
+  --fa: "\e13b"; }
+
+.fa-magnifying-glass {
+  --fa: "\f002"; }
+
 .fa-mountain-city {
   --fa: "\e52e"; }
 
